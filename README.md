@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ... any health data that you need analyzed. 
 - 📫 How to reach me ... email me at benmmoy@gmail.com or send me a message via linkedin/in/benmmoy.
 - 😄 Pronouns: ... he/him.
-- ⚡ Fun fact: ...  the only countries that allow direct-to-consumer advertising are New Zealand and the United States.
+  
+- ⚡ To view my data analysis projects, go [here](https://github.com/burn-all-the-files/get-out-your-map).
 
 <!---
 burn-all-the-files/burn-all-the-files is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
